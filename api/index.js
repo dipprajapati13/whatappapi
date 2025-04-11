@@ -1,4 +1,4 @@
-// Vercel serverless function entry point
+// Vercel serverless function entry pointds
 import express from 'express';
 import { createServer } from 'http';
 import { registerRoutes } from '../server/routes.js';
